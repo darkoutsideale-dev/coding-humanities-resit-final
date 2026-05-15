@@ -3,6 +3,7 @@
 **Student:** Alessia Jia  
 **Course:** Coding Humanities  
 **Assignment:** Individual Repair Project  
+**Corpus:** Jigsaw / Civil Comments toxicity dataset
 **Repository:** `coding-humanities-resit-final`
 
 ---
