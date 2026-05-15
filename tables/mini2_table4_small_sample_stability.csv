@@ -1,0 +1,7 @@
+metric,value
+sample_size_per_group,500.0
+number_of_repeats,500.0
+mean_small_sample_difference,0.2188391394546581
+min_difference,0.1693228357554526
+max_difference,0.3013249886291476
+proportion_of_samples_with_positive_difference,1.0

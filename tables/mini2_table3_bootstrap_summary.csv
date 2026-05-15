@@ -1,0 +1,6 @@
+metric,value
+low_toxicity_mean,5.40684561045793
+high_toxicity_mean,5.1892671961425
+observed_difference_low_minus_high,0.21757841431543046
+bootstrap_ci_low_2.5,0.20460767826668794
+bootstrap_ci_high_97.5,0.23061356036646044

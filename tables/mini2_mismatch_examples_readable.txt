@@ -1,0 +1,90 @@
+================================================================================
+Mismatch type: high_toxicity_high_labMT_happiness
+Comment ID: high_299
+Toxicity group: high_toxicity
+Toxicity score: 0.838
+Mean happiness: 7.290
+Coverage ratio: 0.500
+Text: "educated morons"
+
+================================================================================
+Mismatch type: high_toxicity_high_labMT_happiness
+Comment ID: high_889
+Toxicity group: high_toxicity
+Toxicity score: 0.800
+Mean happiness: 6.827
+Coverage ratio: 0.600
+Text: Well kiss my Arsh Khan %&$#*&%$#!
+
+================================================================================
+Mismatch type: high_toxicity_high_labMT_happiness
+Comment ID: high_1826
+Toxicity group: high_toxicity
+Toxicity score: 0.812
+Mean happiness: 6.620
+Coverage ratio: 0.500
+Text: Organized idiocy!
+
+================================================================================
+Mismatch type: high_toxicity_high_labMT_happiness
+Comment ID: high_568
+Toxicity group: high_toxicity
+Toxicity score: 0.833
+Mean happiness: 6.460
+Coverage ratio: 0.750
+Text: troll on, my friend..........
+
+================================================================================
+Mismatch type: high_toxicity_high_labMT_happiness
+Comment ID: high_607
+Toxicity group: high_toxicity
+Toxicity score: 0.900
+Mean happiness: 6.400
+Coverage ratio: 0.667
+Text: Hope he rots!
+
+================================================================================
+Mismatch type: low_toxicity_low_labMT_happiness
+Comment ID: low_362
+Toxicity group: low_toxicity
+Toxicity score: 0.000
+Mean happiness: 3.480
+Coverage ratio: 1.000
+Text: No
+
+================================================================================
+Mismatch type: low_toxicity_low_labMT_happiness
+Comment ID: low_496
+Toxicity group: low_toxicity
+Toxicity score: 0.000
+Mean happiness: 3.960
+Coverage ratio: 1.000
+Text: BYE!
+
+================================================================================
+Mismatch type: low_toxicity_low_labMT_happiness
+Comment ID: low_480
+Toxicity group: low_toxicity
+Toxicity score: 0.000
+Mean happiness: 4.000
+Coverage ratio: 0.500
+Text: RIP Carrie.
+
+================================================================================
+Mismatch type: low_toxicity_low_labMT_happiness
+Comment ID: low_566
+Toxicity group: low_toxicity
+Toxicity score: 0.000
+Mean happiness: 4.000
+Coverage ratio: 1.000
+Text: Oh yuck.
+
+================================================================================
+Mismatch type: low_toxicity_low_labMT_happiness
+Comment ID: low_339
+Toxicity group: low_toxicity
+Toxicity score: 0.000
+Mean happiness: 4.060
+Coverage ratio: 1.000
+Text: Test test test
+

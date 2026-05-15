@@ -1,0 +1,11 @@
+mismatch_type,comment_id,toxicity_group,toxicity,word_count,matched_token_count,coverage_ratio,mean_happiness,short_text
+high_toxicity_high_labMT_happiness,high_299,high_toxicity,0.837837815284729,2,1,0.5,7.29,"""educated morons"""
+high_toxicity_high_labMT_happiness,high_889,high_toxicity,0.800000011920929,6,3,0.6,6.826666666666667,Well kiss my Arsh Khan %&$#*&%$#!
+high_toxicity_high_labMT_happiness,high_1826,high_toxicity,0.8125,2,1,0.5,6.62,Organized idiocy!
+high_toxicity_high_labMT_happiness,high_568,high_toxicity,0.8333333134651184,4,3,0.75,6.46,"troll on, my friend.........."
+high_toxicity_high_labMT_happiness,high_607,high_toxicity,0.8999999761581421,3,2,0.6666666666666666,6.4,Hope he rots!
+low_toxicity_low_labMT_happiness,low_362,low_toxicity,0.0,1,1,1.0,3.48,No
+low_toxicity_low_labMT_happiness,low_496,low_toxicity,0.0,1,1,1.0,3.96,BYE!
+low_toxicity_low_labMT_happiness,low_480,low_toxicity,0.0,2,1,0.5,4.0,RIP Carrie.
+low_toxicity_low_labMT_happiness,low_566,low_toxicity,0.0,2,2,1.0,4.0,Oh yuck.
+low_toxicity_low_labMT_happiness,low_339,low_toxicity,0.0,3,3,1.0,4.06,Test test test
