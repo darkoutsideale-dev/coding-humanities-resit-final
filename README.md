@@ -4,7 +4,7 @@
 **Course:** Coding Humanities  
 **Assignment:** Individual Repair Project  
 **Corpus:** Jigsaw / Civil Comments toxicity dataset
-*
+
 
 ---
 
